@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../sass/_reset.scss","../sass/_navbar.scss","../sass/_mixin.scss","../sass/_text.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACE;;;ACJF;EACE;EACA;;AAEA;EACE;EACA;EACA;EACA;ECTF;EACA;EACA;;ADYA;EACE;EACA;;AAEA;EACE;;AAGF;EACE;;AAIJ;EACE;IACE;;;;AE5BN;EACE;EACA;EDHA;EACA;EACA;;ACKA;EACE;EACA;;AAGF;EACE","file":"style.css"}
