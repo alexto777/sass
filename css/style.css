@@ -42,13 +42,20 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-size: cover;
+  background-position: 0 0;
+  background-repeat: no-repeat;
 }
 .container__texts {
   width: 90%;
   color: white;
 }
 .container__title {
-  font-size: 3rem;
+  font-size: 2rem;
+  margin-bottom: 0.625rem;
+}
+.container__paragraph {
+  font-size: 1.25rem;
 }
 
 /*# sourceMappingURL=style.css.map */
